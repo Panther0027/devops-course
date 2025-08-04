@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
+=======
+Hello World 
+>>>>>>> 2b2587c (My First Commit)
 
